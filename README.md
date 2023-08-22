@@ -1,4 +1,4 @@
-### Cub Scouts Pack 1703
+# Cub Scouts Pack 1703
 
 <!--
 **CubScoutsPack1703/CubScoutsPack1703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
