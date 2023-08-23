@@ -15,6 +15,10 @@ body {
 	font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+a {
+	color:#0000ff;
+}
+
 img {
 	vertical-align:middle;
 	border:none;
@@ -80,7 +84,7 @@ header nav ul {
 	padding:0;
 }
 
-header nav ul li a {
+header nav a {
 	color:#fbdb00;
 }
 
