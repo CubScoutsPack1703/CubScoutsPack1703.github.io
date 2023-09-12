@@ -90,10 +90,6 @@ header nav a {
 
 /* Main */
 
-main {
-	
-}
-
 main > article > div,
 main > section > div {
 	max-width:1000px;
